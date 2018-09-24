@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/materialDesign500Blue</color>
+    <color name="colorPrimaryDark">@color/materialDesign700Blue</color>
+    <color name="colorAccent">@color/materialDesignA100Blue</color>
+
+    <color name="corBotaoPadrao">@color/materialDesign600Blue</color>
+    <color name="corBotaoGoogle">#d62d20</color>
+    <color name="corTextoBotaoPadrao">@android:color/white</color>
+
+    <color name="corBackgroundPadrao">@color/materialDesign50Blue</color>
+    <color name="corControlNormalPadrao">@color/colorAccent</color>
+
+    <color name="materialDesign50Blue">#e3f2fd</color>
+    <color name="materialDesign100Blue">#bbdefb</color>
+    <color name="materialDesign200Blue">#90caf9</color>
+    <color name="materialDesign300Blue">#64b5f6</color>
+    <color name="materialDesign400Blue">#42a5f5</color>
+    <color name="materialDesign500Blue">#2196f3</color>
+    <color name="materialDesign600Blue">#1e88e5</color> <!--Com letras brancas-->
+    <color name="materialDesign700Blue">#1976d2</color> <!--Com letras brancas-->
+    <color name="materialDesign800Blue">#1565c0</color> <!--Com letras brancas-->
+    <color name="materialDesign900Blue">#0d47a1</color> <!--Com letras brancas-->
+    <color name="materialDesignA100Blue">#82b1ff</color>
+    <color name="materialDesignA200Blue">#448aff</color>
+    <color name="materialDesignA400Blue">#2979ff</color>
+    <color name="materialDesignA700Blue">#2962ff</color>
+</resources>

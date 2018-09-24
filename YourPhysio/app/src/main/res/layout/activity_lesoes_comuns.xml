@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="app.fmu.tcc.yourphysio.activity.LesoesComunsActivity">
+
+    <include android:id="@+id/toolbar"
+        layout="@layout/toolbar"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Lesões por Esforço Repetitivo\n"
+                android:textSize="@dimen/tamanhoTitulo"
+                android:paddingTop="8dp"
+                android:paddingLeft="8dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingTop="8dp"
+                android:paddingLeft="8dp"
+                android:text="As lesões mais comuns são as chamadas L.E.R. (Lesões por Esforço Repetitivo), que é uma síndrome constituída por um grupo de doenças, que afeta músculos, nervos e tendões dos membros superiores principalmente, e sobrecarrega o sistema musculoesquelético. Esse distúrbio provoca dor e inflamação e pode alterar a capacidade funcional da região comprometida. A prevalência é maior no sexo feminino.\n\n"
+                android:textSize="@dimen/tamanhoSubTitulo"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Diagnóstico\n"
+                android:textSize="@dimen/tamanhoTitulo"
+                android:paddingLeft="8dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingTop="8dp"
+                android:paddingLeft="8dp"
+                android:text="O mais importante é determinar a causa dos sintomas para eleger o tratamento adequado. Para tanto, muitas vezes, é preciso recorrer a uma avaliação multidisciplinar.\nNas crises agudas de dor, o tratamento inclui o uso de anti-inflamatórios e repouso das estruturas musculoesqueléticas comprometidas. Nas fases mais avançadas da síndrome, a aplicação de corticóides na área da lesão ou por via oral, fisioterapia e intervenção cirúrgica são recursos terapêuticos que devem ser considerados.\nOs conhecimentos da ergonomia, ciência que estuda a melhor forma de atingir e preservar o equilíbrio entre o homem, a máquina, as condições de trabalho e o ambiente com o objetivo de assegurar eficiência e bem-estar do trabalhador, têm-se mostrado muito úteis no tratamento e prevenção da L.E.R.\n\n"
+                android:textSize="@dimen/tamanhoSubTitulo"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="'O mais importante é buscar uma ajuda clínica em casos fortes de dor. O YourPhysio busca evitar que pequenos hábitos agravem e atrapalhem seu modo de viver bem. Visite seu médico periodicamente!'\n\n"
+                android:textSize="@dimen/tamanhoSubTitulo"
+                android:paddingLeft="8dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

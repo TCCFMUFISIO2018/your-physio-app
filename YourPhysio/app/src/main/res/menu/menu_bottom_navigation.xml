@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_exercicios"
+        android:icon="@drawable/ic_fitness_center_white_24dp"
+        android:title="Exercícios" />
+
+    <item
+        android:id="@+id/navigation_dados_conta"
+        android:icon="@drawable/ic_account_circle"
+        android:title="Conta" />
+
+</menu>

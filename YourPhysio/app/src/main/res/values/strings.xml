@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">YourPhysio App</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="hintDigiteNome">Digite seu nome</string>
+    <string name="hintDigiteEmail">Digite seu e-mail</string>
+    <string name="hintDigiteSenha">Digite sua senha</string>
+    <string name="hintConfirmeSenha">Confirme sua senha</string>
+
+    <string name="textoUsuarioSemConta">Não tem uma conta? Cadastre-se</string>
+    <string name="textoEquipe">Sobre Nós</string>
+    <string name="textoSucessoCadastroUsuario">Sucesso ao cadastrar o usuário</string>
+
+    <string name="textoBotaoCadastrar">Cadastrar</string>
+    <string name="textoBotaoLogin">Login</string>
+
+    <string name="textoUltimoExercicio">Exercícios Recentes</string>
+    <string name="textoHomeBoasVindas">Olá, Fulan@!\nO que deseja fazer?\n\nEscolha na lista abaixo</string>
+    <string name="textoHomeOla">Olá, Fulan@!\nO que deseja fazer?\n\nEscolha na lista abaixo</string>
+    <string name="textoIndicacaoDor">Toque na parte do corpo em que sente dor</string>
+
+    <string name="erroIniciarSessao">Não pôde iniciar a sessão. Tente novamente!</string>
+    <string name="erroFinalizarSessao">Não foi possível encerrar sua sessão. Tente novamente!</string>
+    <string name="erroRevogarSessao">Não foi possível revogar sua sessão. Tente novamente!</string>
+    <string name="erro">Erro: </string>
+    <string name="erroSenhasDesiguais">As senhas não coincidem. Tente novamente!</string>
+    <string name="erroSenhaFraca">Digite uma senha mais forte, contendo mais caracteres e com letras e numeros!</string>
+    <string name="erroEmailInvalido">O e-mail digitado não é valido, digite um novo e-mail!</string>
+    <string name="erroColisaoEmail">Esse e-mail já está em uso no app!</string>
+    <string name="erroCadastroGenerico">Ao efetuar o cadastro!</string>
+    <string name="erroCallbackFacebookOnCancel">Login cancelado</string>
+    <string name="erroCallbackFacebookOnError">Erro ao fazer login no Facebook</string>
+    <string name="erroLoginUsuario">Erro ao fazer login. Tente novamente</string>
+    <string name="erroCampoNomeUsuarioVazio">Digite seu nome!</string>
+    <string name="erroCampoEmailUsuarioVazio">Digite seu e-mail!</string>
+    <string name="erroCampoSenhaUsuarioVazia">Digite sua senha!</string>
+    <string name="erroCampoSenhaRepetidaUsuarioVazia">Confirme sua senha!</string>
+    <string name="erroUsuarioSenhaInvalido">Usuário ou senha inválidos. Tente novamente!</string>
+
+    <string name="textoAjudaCadastro">Preencha os campos corretamente e toque no botão "Cadastrar", ou toque no botão "Fazer login", para fazer cadastro com a conta do Google</string>
+    <string name="textoAjudaHome">Escolha o que deseja fazer nos botões desta tela, ou nos itens do menu na parte inferior...</string>
+    <string name="textoInfoLesoesComuns">Lesões comuns</string>
+
+    <string name="itemAjuda">Ajuda</string>
+    <string name="itemTermosCondicoes">Termos e Condições</string>
+    <string name="itemDadosConta">Dados da Conta</string>
+    <string name="itemSair">Sair</string>
+    <string name="itemAlterarUsuario">Editar</string>
+    <string name="itemInformacao">Informações retiradas de um artigo do site do Dr. Drauzio Varella, a autora chama-se Maria Helena Varella Bruna</string>
+
+    <string name="tituloToolbarDadosConta">Dados da Conta</string>
+    <string name="tituloToolbarCadastro">Cadastre-se</string>
+    <string name="tituloToolbarLesoesComuns">Lesões Comuns</string>
+    <string name="tituloToolbarEquipe">YourPhysio - Equipe</string>
+
+    <string name="tituloBottomHome">Home</string>
+    <string name="tituloBottomExercicios">Exercícios</string>
+    <string name="tituloBottomDadosConta">Conta</string>
+
+</resources>
